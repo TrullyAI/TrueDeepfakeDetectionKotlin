@@ -5,19 +5,13 @@
 
   <groupId>ai.trully.sdk</groupId>
   <artifactId>TrueDeepfakeDetectionKotlin</artifactId>
-  <version>1.0.0</version>  
+  <version>1.0.1</version>  
   <packaging>aar</packaging>
 
   <dependencies>
     <dependency>
       <groupId>androidx.activity</groupId>
       <artifactId>activity-ktx</artifactId>
-      <version>1.9.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.activity</groupId>
-      <artifactId>activity</artifactId>
       <version>1.9.0</version>
       <scope>compile</scope>
     </dependency>
