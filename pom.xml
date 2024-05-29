@@ -5,7 +5,7 @@
 
   <groupId>ai.trully.sdk</groupId>
   <artifactId>TrueDeepfakeDetectionKotlin</artifactId>
-  <version>1.2.9</version>  
+  <version>1.2.10</version>  
   <packaging>aar</packaging>
 
   <dependencies>
