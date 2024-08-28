@@ -2,5 +2,5 @@ install:
   - FILE="-Dfile=app.aar"
   - mvn install:install-file $FILE -DpomFile=pom.xml
     -DgroupId=ai.trully.truedeepfakedetection
-    -DartifactId=TrueDeepfakeDetectionKotlin -Dversion=1.3.0 -Dpackaging=aar
+    -DartifactId=TrueDeepfakeDetectionKotlin -Dversion=1.3.1 -Dpackaging=aar
     -DgeneratePom=true
