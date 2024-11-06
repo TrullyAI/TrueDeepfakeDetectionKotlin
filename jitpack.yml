@@ -1,6 +1,6 @@
 install:
-  - FILE="-Dfile=deepfake-detection-kotlin.aar"
+  - FILE="-Dfile=deepfake-detection-android.aar"
   - mvn install:install-file $FILE -DpomFile=pom.xml
     -DgroupId=ai.trully.truedeepfakedetection
-    -DartifactId=TrueDeepfakeDetectionKotlin -Dversion=2.2.2 -Dpackaging=aar
+    -DartifactId=TrueDeepfakeDetectionKotlin -Dversion=2.2.3 -Dpackaging=aar
     -DgeneratePom=true
